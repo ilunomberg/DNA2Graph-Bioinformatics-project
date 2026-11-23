@@ -1,0 +1,5 @@
+# Raw datasets (large image files) - keep out of version control
+/data/
+
+# macOS metadata
+.DS_Store
